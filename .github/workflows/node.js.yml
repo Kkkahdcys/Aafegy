@@ -29,3 +29,4 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
+https://github.com/Kkkahdcys/Aafegy/actions/workflows/node.js.yml/badge.svg
